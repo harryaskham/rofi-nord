@@ -41,7 +41,7 @@ $ cp config.rasi ~/.config/rofi/
 
 4. Run Rofi and enjoy your Nord Theme
 
-### Install Nord Theme manually
+## Install Nord Theme manually
 
 1. Download using the [GitHub .zip download](https://github.com/lr-tech/rofi-nord/archive/main.zip).
 2. Unzip
