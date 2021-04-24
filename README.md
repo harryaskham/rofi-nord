@@ -1,3 +1,5 @@
+# This theme was merged to my [Rofi Themes Collection repo](https://github.com/lr-tech/rofi-themes-collection).
+
 # ROFI NORD: A Rofi theme inspired by Nord Color Palette
 
 ![Screenshot-drun](./screenshot-drun.png)
